@@ -36,7 +36,7 @@ Software versions used for development (**compatibility with earlier versions ha
 - iOS 15+ iPhone device (the game is not designed to run on iPads)
 
 ## Setup Instructions
-(The application is not available on AppStore at this time)
+(The application is not available on App Store at this time)
 
 You will need a macOS computer with Xcode installed to run the game.
 
