@@ -14,7 +14,9 @@
 
 ## Project Overview
 
-Brakeless is a game in which the player's task is to drive a car in such a way as to avoid an incident with obstacles on the road and other traffic participants for as long as possible. The game is designed for iPhones. **The game is only available in the English language version!**
+Brakeless is a game in which the player's task is to drive a car in such a way as to avoid an incident with obstacles on the road and other traffic participants for as long as possible. The game is designed for iPhones.
+> [!NOTE]  
+> The game is only available in the English language version!
 
 ## Features
 
@@ -30,10 +32,11 @@ Brakeless is a game in which the player's task is to drive a car in such a way a
 - Swift programming language
 
 ## Requirements
-Software versions used for development (**compatibility with earlier versions has not been tested**):
-
+Software versions used for development:
 - Xcode 15.4+
 - iOS 15+ iPhone device (the game is not designed to run on iPads)
+> [!WARNING]  
+> Compatibility with earlier versions has not been tested.
 
 ## Setup Instructions
 (The application is not available on App Store at this time)
