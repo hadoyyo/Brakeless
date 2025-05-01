@@ -46,8 +46,9 @@ You will need a macOS computer with Xcode installed to run the game.
 1. Download this repository.
 2. Extract folder and open `Brakeless.xcodeproj` file.
 3. Connect your iPhone device to Xcode.
-4. "Trust" the developer's app in the settings on the iPhone.
-5. Install and open the game.
+4. Enable Developer Mode on the iPhone (`Settings > Privacy & Security`).
+5. "Trust" the developer's app in the settings on the iPhone (`Settings > General > VPN & Device Management`).
+6. Install and open the game.
 
 ## Screenshots
 <img src="./ss/ss1.PNG" width="49%"/> <img src="./ss/ss2.PNG" width="49%"/>
